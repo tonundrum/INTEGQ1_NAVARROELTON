@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\bin\Debug\net5.0\SVRMSDataLayer.deps.json
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\bin\Debug\net5.0\SVRMSDataLayer.dll
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\bin\Debug\net5.0\ref\SVRMSDataLayer.dll
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\bin\Debug\net5.0\SVRMSDataLayer.pdb
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\SVRMSDataLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\SVRMSDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\SVRMSDataLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\SVRMSDataLayer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\SVRMSDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\SVRMSDataLayer.dll
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\ref\SVRMSDataLayer.dll
+C:\Users\DELL\source\repos\StudentViolationRecordManagementSystem\SVRMSDataLayer\obj\Debug\net5.0\SVRMSDataLayer.pdb
